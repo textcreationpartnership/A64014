@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters discovering the designs of the late King James in Ireland written from a person of quality to a noble peer sitting in the House of Lords.</title>
+            <author>Person of quality.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64014</idno>
+            <idno type="STC">Wing T3458</idno>
+            <idno type="STC">ESTC R20846</idno>
+            <idno type="EEBO-CITATION">12177019</idno>
+            <idno type="OCLC">ocm 12177019</idno>
+            <idno type="VID">55558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55558)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters discovering the designs of the late King James in Ireland written from a person of quality to a noble peer sitting in the House of Lords.</title>
+                  <author>Person of quality.</author>
+                  <author>Noble Peer sitting in the House of Lords.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Partridge :</publisher>
+                  <publisher>and sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Broadsides.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="half_title">
+            <pb n="1" facs="tcp:55558:1"/>
+            <head>TWO LETTERS Diſcovering the Deſigns of the Late KING <hi>JAMES</hi> in <hi>Ireland.</hi> WRITTEN From a Perſon of Quality to a Noble Peer ſitting in the HOUSE of LORDS.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed <hi>Apr.</hi> 25. 1689. </p>
+                        <closer>
+                           <signed>Ja. Fraſer.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div type="letter">
+               <head>My Lord,</head>
+               <p>YOU are pleaſed to lay your Commands upon me, that now and then I ſhould trouble you with a Letter; nothing can be more for<g ref="char:EOLhyphen"/>cible on me than your Lordſhip's Orders, which I ſhall for ever think my ſelf obliged to obey as often as opportunity preſents; and indeed, my Lord, I think the occaſion of this is none of the leaſt con<g ref="char:EOLhyphen"/>ſiderable; 'tis to give your Lordſhip an account of a Diſcourſe that lately happened between my Lord <hi>Brittas</hi> and Mr. <hi>Foleys,</hi> the Miniſter, one whom I am ſure your Lordſhip knows to be a perſon of Ingenuity, Lear<g ref="char:EOLhyphen"/>ning, and Integrity.</p>
+               <p>My Lord <hi>Brittas</hi> is one of thoſe that attended the late King <hi>James</hi> into <hi>Ireland</hi> from <hi>France;</hi> Mr. <hi>Foley</hi> is by his Wife related to my Lord <hi>Brittas;</hi> ſoon after my Lord's Arrival in <hi>Ireland,</hi> Mr. <hi>Foley</hi> (who was then there, but is very lately come to this City) waited on him, and amongſt other Diſcourſe told his Lordſhip, that he hoped, now the King was come amongſt them, that His Majeſty would prevent thoſe grievous Diſorders, and ſome barbarous Inhumanities that had lately been committed in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> to the poor Proteſtants there; for that this mercifull courſe of Clemency and Lenity to the Proteſtants of <hi>Ireland</hi> would procure His Majeſty a con<g ref="char:EOLhyphen"/>ſiderable intereſt in the Hearts and Affections of his Proteſtant Subjects in <hi>England,</hi> by whoſe means he muſt expect to be reſtored, if ever he regai<g ref="char:EOLhyphen"/>ned his Crowns. My Lord <hi>Brittas</hi> returned this Anſwer, Couſin <hi>Foley,</hi> His Majeſty is naturally mercifull and compaſſionate, and therefore will as much as he can prevent all Injuries to any of his Subjects; but I can aſ<g ref="char:EOLhyphen"/>ſure you, not out of the deſign that you mention, of gaining the Affecti<g ref="char:EOLhyphen"/>on of his Proteſtants in <hi>England,</hi> and by them of obtaining his Crown; no, he is wiſer than ſo, ever to truſt them; and both his Majeſty and all his Catholick Subjects had rather he ſhould hazard the Loſs of all his Crowns, than come in by their means; for we know well enough the conditions they would propoſe to him would be ſuch, that he cou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d not<g ref="char:punc">▪</g>
+                  <pb n="2" facs="tcp:55558:2" rendition="simple:additions"/>nor ſhould he keep them; he deſigns to regain his Thrones by down right force of the Arms of his Catholick Subjects, and by aſſiſtence from <hi>France,</hi> and then he will be free from thoſe Fetters and Chains wherewith his rebellious Proteſtants would bind him, and may doe what he pleaſe.</p>
+               <p>This, my Lord, I had from Mr. <hi>Foley</hi>'s own Mouth, ſo that 'tis un<g ref="char:EOLhyphen"/>queſtionable, and my Lord <hi>Brittas</hi> being one of the beſt ſcent amongſt them, we may thereby find what their Deſign is; 'tis now viſibly, no Pa<g ref="char:EOLhyphen"/>piſt, or no Proteſtant; and if at this juncture we fall a quarrelling at home amongſt our ſelves, I think we are an infatuated Nation, and deſigned for Ruine, Deſtruction, and Deſolation: God grant to your great Council Wiſdom and Unity, for otherwiſe the Nation is loſt.</p>
+               <p>But above all, my Lord, in my poor Judgment, it were expedition that the <hi>Militia</hi> ſhould be ſpeedily regulated, and the Country put into a poſture of Defence.</p>
+               <p>Your Lordſhip may make the beſt uſe you can of the forementioned Story, by communicating it to thoſe you think fit, only be pleaſed not to mention my Name as your Informer.</p>
+               <closer>
+                  <signed>Your moſt humble Servant.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>THE The Extract of another Letter to the ſaid Noble Peer, By the ſame Hand.</head>
+               <p>LEſt <hi>Jackſon</hi> omit telling your Lordſhip one material Paſſage, I thought fit to intimate to you, that upon King <hi>James</hi>'s going down to the North to reduce <hi>Londonderry,</hi> Mr. <hi>d' Avaux</hi> adviſed him to buy the Offi<g ref="char:EOLhyphen"/>cers off, and reduce it that way: We ſee the French way of beſieging Towns is coming in faſhion in <hi>Ireland</hi> too. The late King has ſent hun<g ref="char:EOLhyphen"/>dreds of Commiſſions to raiſe Men in <hi>Scotland.</hi> The French King has ſent with King <hi>James</hi> into <hi>Ireland</hi> Four hundred thouſand Crowns, and promi<g ref="char:EOLhyphen"/>ſed him whatever ſupplies he ſhall want, provided he expend it as he ſhall direct; and therefore the French King has ſent a Treaſurer along with King <hi>James,</hi> to ſee that the Money be disburſed according to his Order. This I have from an undoubted hand.</p>
+               <closer>
+                  <dateline>
+                     <hi>Cheſter,</hi> 
+                     <date>
+                        <hi>Ap.</hi> 20. 1689.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>James Partridge,</hi> and Sold by <hi>Randal Taylor</hi> near <hi>Stationers-Hall,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
